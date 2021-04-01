@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Bokareis';
+    src: url('Bokareis-Normal.eot');
+    src: url('Bokareis-Normal.eot?#iefix') format('embedded-opentype'),
+        url('Bokareis-Normal.woff2') format('woff2'),
+        url('Bokareis-Normal.woff') format('woff'),
+        url('Bokareis-Normal.ttf') format('truetype'),
+        url('Bokareis-Normal.svg#Bokareis-Normal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
