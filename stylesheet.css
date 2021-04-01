@@ -5,7 +5,7 @@
         url('../main/Bokareis-Normal.woff2') format('woff2'),
         url('../main/Bokareis-Normal.woff') format('woff'),
         url('../main/Bokareis-Normal.ttf') format('truetype'),
-        url(../main/Bokareis-Normal.svg') format('svg');
+        url('../main/Bokareis-Normal.svg') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
