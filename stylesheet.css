@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Bokareis';
-    src: url('Bokareis-Normal.woff2') format('woff2'),
-        url('Bokareis-Normal.woff') format('woff');
+    src: url('https://github.com/MinaMK16/Fonts/blob/main/Bokareis-Normal.woff2') format('woff2'),
+        url('https://github.com/MinaMK16/Fonts/blob/main/Bokareis-Normal.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
